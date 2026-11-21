@@ -1,0 +1,294 @@
+{
+ "units": "normalised; model height 3.2",
+ "parts": [
+  {
+   "name": "Earcup L",
+   "role": "Earcup",
+   "side": "L",
+   "description": "Main housing of the ear cup. Exterior surface only; no interior is modelled.",
+   "triangles": 4040,
+   "assembled": [
+    -1.01193,
+    -0.84265,
+    -9e-05
+   ],
+   "exploded": [
+    -1.11193,
+    -0.89265,
+    -9e-05
+   ]
+  },
+  {
+   "name": "Side panel L",
+   "role": "Side panel",
+   "side": "L",
+   "description": "Outer-side plate on each cup.",
+   "triangles": 920,
+   "assembled": [
+    -1.36518,
+    -1.03271,
+    0.00018
+   ],
+   "exploded": [
+    -2.86518,
+    -1.03271,
+    0.00018
+   ]
+  },
+  {
+   "name": "Frame ring L",
+   "role": "Frame ring",
+   "side": "L",
+   "description": "Structural ring behind the earcup shell.",
+   "triangles": 3660,
+   "assembled": [
+    -1.1763,
+    -0.49993,
+    0.0
+   ],
+   "exploded": [
+    -1.7263,
+    -0.49993,
+    0.0
+   ]
+  },
+  {
+   "name": "Yoke L",
+   "role": "Yoke",
+   "side": "L",
+   "description": "Connects the headband end to the earcup hinge.",
+   "triangles": 2284,
+   "assembled": [
+    -1.22925,
+    0.11699,
+    -0.00528
+   ],
+   "exploded": [
+    -1.77925,
+    0.86699,
+    -0.00528
+   ]
+  },
+  {
+   "name": "Headband",
+   "role": "Headband",
+   "side": "",
+   "description": "Main arch. One solid piece in the source model, so padding and band are not separable.",
+   "triangles": 3722,
+   "assembled": [
+    -0.0,
+    0.93961,
+    -0.0044
+   ],
+   "exploded": [
+    -0.0,
+    2.43961,
+    -0.0044
+   ]
+  },
+  {
+   "name": "Hinge pin L",
+   "role": "Hinge pin",
+   "side": "L",
+   "description": "Small pivot element at the yoke/earcup joint.",
+   "triangles": 240,
+   "assembled": [
+    -1.16193,
+    -0.13934,
+    -0.00358
+   ],
+   "exploded": [
+    -2.16193,
+    0.36066,
+    -0.00358
+   ]
+  },
+  {
+   "name": "Pivot stub L back",
+   "role": "Pivot stub",
+   "side": "L",
+   "description": "Small cylindrical piece on the front or back of a cup. Function not identifiable from geometry alone.",
+   "triangles": 1488,
+   "assembled": [
+    -1.06168,
+    -0.98014,
+    -0.69519
+   ],
+   "exploded": [
+    -1.41168,
+    -0.98014,
+    -1.49519
+   ]
+  },
+  {
+   "name": "Pivot stub L front",
+   "role": "Pivot stub",
+   "side": "L",
+   "description": "Small cylindrical piece on the front or back of a cup. Function not identifiable from geometry alone.",
+   "triangles": 1488,
+   "assembled": [
+    -1.05725,
+    -0.9831,
+    0.69668
+   ],
+   "exploded": [
+    -1.40725,
+    -0.9831,
+    1.49668
+   ]
+  },
+  {
+   "name": "Ear cushion L",
+   "role": "Ear cushion",
+   "side": "L",
+   "description": "Cushion on the head side of each cup.",
+   "triangles": 3960,
+   "assembled": [
+    -0.57842,
+    -0.74377,
+    -9e-05
+   ],
+   "exploded": [
+    0.32158,
+    -0.74377,
+    -9e-05
+   ]
+  },
+  {
+   "name": "Ear cushion R",
+   "role": "Ear cushion",
+   "side": "R",
+   "description": "Cushion on the head side of each cup.",
+   "triangles": 3960,
+   "assembled": [
+    0.57842,
+    -0.74377,
+    -9e-05
+   ],
+   "exploded": [
+    -0.32158,
+    -0.74377,
+    -9e-05
+   ]
+  },
+  {
+   "name": "Earcup R",
+   "role": "Earcup",
+   "side": "R",
+   "description": "Main housing of the ear cup. Exterior surface only; no interior is modelled.",
+   "triangles": 4040,
+   "assembled": [
+    1.01193,
+    -0.84265,
+    -9e-05
+   ],
+   "exploded": [
+    1.11193,
+    -0.89265,
+    -9e-05
+   ]
+  },
+  {
+   "name": "Frame ring R",
+   "role": "Frame ring",
+   "side": "R",
+   "description": "Structural ring behind the earcup shell.",
+   "triangles": 3660,
+   "assembled": [
+    1.1763,
+    -0.49993,
+    0.0
+   ],
+   "exploded": [
+    1.7263,
+    -0.49993,
+    0.0
+   ]
+  },
+  {
+   "name": "Pivot stub R front",
+   "role": "Pivot stub",
+   "side": "R",
+   "description": "Small cylindrical piece on the front or back of a cup. Function not identifiable from geometry alone.",
+   "triangles": 1488,
+   "assembled": [
+    1.05725,
+    -0.9831,
+    0.69668
+   ],
+   "exploded": [
+    1.40725,
+    -0.9831,
+    1.49668
+   ]
+  },
+  {
+   "name": "Pivot stub R back",
+   "role": "Pivot stub",
+   "side": "R",
+   "description": "Small cylindrical piece on the front or back of a cup. Function not identifiable from geometry alone.",
+   "triangles": 1488,
+   "assembled": [
+    1.06168,
+    -0.98014,
+    -0.69519
+   ],
+   "exploded": [
+    1.41168,
+    -0.98014,
+    -1.49519
+   ]
+  },
+  {
+   "name": "Yoke R",
+   "role": "Yoke",
+   "side": "R",
+   "description": "Connects the headband end to the earcup hinge.",
+   "triangles": 2284,
+   "assembled": [
+    1.22925,
+    0.11699,
+    -0.00528
+   ],
+   "exploded": [
+    1.77925,
+    0.86699,
+    -0.00528
+   ]
+  },
+  {
+   "name": "Hinge pin R",
+   "role": "Hinge pin",
+   "side": "R",
+   "description": "Small pivot element at the yoke/earcup joint.",
+   "triangles": 240,
+   "assembled": [
+    1.16193,
+    -0.13934,
+    -0.00358
+   ],
+   "exploded": [
+    2.16193,
+    0.36066,
+    -0.00358
+   ]
+  },
+  {
+   "name": "Side panel R",
+   "role": "Side panel",
+   "side": "R",
+   "description": "Outer-side plate on each cup.",
+   "triangles": 920,
+   "assembled": [
+    1.36518,
+    -1.03271,
+    0.00018
+   ],
+   "exploded": [
+    2.86518,
+    -1.03271,
+    0.00018
+   ]
+  }
+ ]
+}
